@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "534814355948",
+    "project_id": "qwer-a557b",
+    "storage_bucket": "qwer-a557b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534814355948:android:12496d422a4f4fcc1950c9",
+        "android_client_info": {
+          "package_name": "ru.mirea.sharova.a.d.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK1BRNv8eGvcxyfMtzK6EpNCz376AQpyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
